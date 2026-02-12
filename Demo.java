@@ -1,5 +1,7 @@
 class Demo {
 public static void main(String args[]){
-System.out.println("welcome to cse")
+System.out.println("welcome to cse");
 
 }
+}
+
